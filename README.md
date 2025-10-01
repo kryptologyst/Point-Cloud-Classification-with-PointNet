@@ -30,8 +30,8 @@ The model can classify the following 10 object categories:
 
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
-cd 0143_Point_cloud_classification
+git clone https://github.com/kryptologyst/Point-Cloud-Classification-with-PointNet.git
+cd Point-Cloud-Classification-with-PointNet
 ```
 
 2. **Install dependencies**:
